@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Lena Berdysheva](https://up.htmlacademy.ru/htmlcss/32/user/600171).
-* Наставник: [Ekaterina Nikitina](https://htmlacademy.ru/profile/id489027).
+* Наставник: [Ekaterina Nikitina](https://htmlacademy.ru/profile/id489027)!
 
 ---
 
